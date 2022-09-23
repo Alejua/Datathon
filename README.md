@@ -4,7 +4,7 @@
 
  Tomando los dataset provistos, a continuacion va detalle:
 
- ## Que modelo elegi para el proble planteado: REGRESION LOGISTICA
+ ## Que modelo elegi para el problema planteado: REGRESION LOGISTICA
  
  Por que Regresion Logistica, debido a la naturaleza del problema que como salida tendremos una variable binaria en el afan de identificar, nuestra futura efectividad en las entregas y logra identificar cuales puede ser  los causantes de los yerros, para asi trabajar en los mismos.
 
